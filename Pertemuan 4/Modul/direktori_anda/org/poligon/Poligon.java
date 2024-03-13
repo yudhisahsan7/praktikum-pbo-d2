@@ -1,5 +1,5 @@
 /* 
- * Nama File    : PersegiPanjang.java
+ * Nama File    : Poligon.java
  * Nama Pembuat : Muhammad Ahsan Yudhistira
  * NIM          : 24060122130083
  * Deskripsi    : File kelas Poligon
